@@ -10,4 +10,4 @@ phases:
       - echo "******** Building Jekyll site ********"
       - bundle exec jekyll build
       - echo "******** Uploading to S3 ********"
-      - aws s3 sync --delete _site/ s3://blog.masterthe.cloud
+      - aws s3 sync --delete _site/ s3://s3-website-test.codebuild
