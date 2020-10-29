@@ -3,7 +3,7 @@ layout: post
 title:  "EC2 - Static IP’s For Nix Environments (RHEL/CentOS)"
 date:   2020-10-21
 image: /images/posts/aws_masters.jpg
-tags: [AWS, CentOS, RHEL, Administratrion, Cloud]
+tags: [AWS, CentOS, RHEL, Administratrion, Cloud, Christopher L Medina]
 ---
 
 I was recently tasked with investigating how to assign persistent static IP’s (four) to a RHEL EC2 instance. As a longtime Unix/Linux Engineer in a previous life, I (much like many of you right now) assumed this would be simple. I regret to inform you we were sadly mistaken. After a bit of research, I stumbled into quite a few separate ways to accomplish this goal. Here I have outlined what I believe to be the easiest methodology.
