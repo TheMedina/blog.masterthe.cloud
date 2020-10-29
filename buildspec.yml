@@ -10,4 +10,4 @@ phases:
   build:
     commands:
       - bundle exec jekyll build
-      - aws s3 sync --delete _site/ s3://www.zeta-two.com
+      - aws s3 sync --delete _site/ https://s3.amazonaws.com/blog.masterthe.cloud
