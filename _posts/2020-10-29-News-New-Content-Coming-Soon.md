@@ -39,5 +39,3 @@ As always, thanks for reading!
 > <cite>- FIN -</cite>
 > <cite>Christopher L Medina</cite>
 > <cite>Solutions Architect - Masterthe.Cloud</cite>
-
-This is to test the new AWS CodeBuild Process
