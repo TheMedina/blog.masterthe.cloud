@@ -3,10 +3,11 @@ version: 0.1
 phases:
   install:
     commands:
-      - gem install bundler
-      - apt-get install nodejs
+      - gem install bundler jekyll jekyll-paginate jekyll-sitemap jekyll-gist
       - bundle install
   build:
     commands:
+      - echo "******** Building Jekyll site ********"
       - bundle exec jekyll build
+      - echo "******** Uploading to S3 ********"
       - aws s3 sync --delete _site/ https://s3.amazonaws.com/blog.masterthe.cloud
