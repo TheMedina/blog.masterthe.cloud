@@ -1,2 +1,2 @@
 # blog.masterthe.cloud
-Site content and configuration
+This repo serves for the deployment history and content for the blog.masterthe.cloud site.
