@@ -2,7 +2,7 @@
 layout: post
 title:  "NEWS - New Content Comming Soon!"
 date:   2020-10-29
-image: /images/posts/MTC.PNG
+image: /images/posts/mtc.png
 tags: [News, Master The Cloud]
 ---
 
