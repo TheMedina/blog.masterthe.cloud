@@ -2,7 +2,7 @@
 layout: post
 title:  "Journey Through the Cloud PT 1"
 date:   2020-10-30
-image: /images/posts/mtc.png
+image: /images/posts/ssg.png
 tags: [Series, Christopher L Medina, Static Site Generator, Hugo, Jekyll, GatsbyJS]
 ---
 
