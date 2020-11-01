@@ -43,3 +43,9 @@ Jekyll was the first SSG. It’s written in Ruby and has one of the simplest lea
 Gatsby is phenomenal at what it does. However, that is not without its drawbacks. It has a very steep learning curve and you need to be familiar with GraphQL, React, and other technologies. It’s really good at helping you reach custom solutions that require a true web app approach. 
 
 In the end we choose to split our services. For blog.masterthe.cloud we decided to go with Jekyll. It was easiest enough for us to learn and manage. The build time is noticeably slower than our Hugo test; however, it’s not a major inconvenience. Also this won’t really become an issue with our project scale of growth. For our main masterthe.cloud service that we're still working on, we decided to test the waters with Gatsby. We’ll be sure to document our journey and share it with you as we progress.
+
+As always, thanks for reading!
+
+> <cite>- FIN -</cite>
+> <cite>Christopher L Medina</cite>
+> <cite>Solutions Architect - Masterthe.Cloud</cite>
