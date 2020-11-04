@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Journey Through the Cloud PT 2"
-date:   2020-11-03
+date:   2020-11-04
 image: /images/posts/pipeline.png
 tags: [Series, Christopher L Medina, CloudFront, AWS, OAI, S3, Lambda@Edge]
 ---
@@ -53,7 +53,7 @@ exports.handler = (event, context, callback) => {
 };
 ```
 
-Follow this phenomenal article on AWS blogs to know more details about how to get this up and running.
+Follow <a href = "https://aws.amazon.com/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/" target = "_blank">this</a> phenomenal article on AWS blogs to know more details about how to get this up and running.
 
 Join us next time where we'll go into more detail about the CI/CD pipeline we created in AWS to enable the Jekyll builds and allow us to update our Jekyll blog in production with a single code commit into a git repo. 
 
