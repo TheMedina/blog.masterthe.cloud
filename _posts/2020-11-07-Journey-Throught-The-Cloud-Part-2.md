@@ -48,7 +48,7 @@ In a more enterprise or ‘real world’ scenario there would need to be much mo
 
 As our team grows we do plan on making this a bit more streamlined. Particularly when we’re in the position to hire a full time editor. We’ll probably have another environment that we will deploy into first. We’ll use CodePipeline for a manual approver process once the editor okayes everything. Additionally, this other location will probably be an S3 bucket with ACL policies restricting get request by IPs. We’ll be sure to update you along the process as we change it.
 
-Be sure to join us next time when I walk through the IaC position of this initiative.
+Be sure to join us next time when I walk through the IaC portion of this initiative.
 
 As always, thanks for reading!
 
