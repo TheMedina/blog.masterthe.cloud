@@ -12,7 +12,7 @@ I’m sure you’ve heard the terms thrown around enough, but what does CI/CD re
 
 ## CI/CD Primer
 
-Much like the phrase DevOps, CI/CD is more a philosophy than a tech stack. These lines get more blurred each year with well designed, efficient product sweets becoming synonymous with the practice. At its core Continuous Integration and Continuous Delivery are practices leveraged by developers to ensure a healthy and managed life cycle of code development. 
+Much like the phrase DevOps, CI/CD is more a philosophy than a tech stack. These lines get more blurred each year with well designed, efficient product suites becoming synonymous with the practice. At its core Continuous Integration and Continuous Delivery are practices leveraged by developers to ensure a healthy and managed life cycle of code development. 
 
 The role of CI is to produce artifacts, or outputs of your code (binary files, jars, etc.) for deployment. During this process workflow tests are run to make sure that the artifact for the given code is safe to deploy. This is key for the overall CI/CD process. 
 
